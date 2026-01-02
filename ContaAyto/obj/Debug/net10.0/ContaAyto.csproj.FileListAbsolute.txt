@@ -1,0 +1,14 @@
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\bin\Debug\net10.0\ContaAyto.exe
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\bin\Debug\net10.0\ContaAyto.deps.json
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\bin\Debug\net10.0\ContaAyto.runtimeconfig.json
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\bin\Debug\net10.0\ContaAyto.dll
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\bin\Debug\net10.0\ContaAyto.pdb
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\obj\Debug\net10.0\ContaAyto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\obj\Debug\net10.0\ContaAyto.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\obj\Debug\net10.0\ContaAyto.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\obj\Debug\net10.0\ContaAyto.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\obj\Debug\net10.0\ContaAyto.dll
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\obj\Debug\net10.0\refint\ContaAyto.dll
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\obj\Debug\net10.0\ContaAyto.pdb
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\obj\Debug\net10.0\ContaAyto.genruntimeconfig.cache
+C:\Users\ignac\OneDrive\Desktop\ThePowe_Master\Prueba ATM C#\GEMINI\ContaAyto\obj\Debug\net10.0\ref\ContaAyto.dll
